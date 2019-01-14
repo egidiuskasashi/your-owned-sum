@@ -13,4 +13,4 @@ Every user may read the contract to check which sum is owned by a particular add
 
 ## deployment
 
-the contract may be tested on Ropsten test network, [here] (https://ropsten.etherscan.io/address/0x9f2b94ff2ce7a45fd1483818d6e35fd9cfb51034)
+the contract may be tested on Ropsten test network, [here](https://ropsten.etherscan.io/address/0x9f2b94ff2ce7a45fd1483818d6e35fd9cfb51034)
