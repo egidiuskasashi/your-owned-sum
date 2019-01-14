@@ -1,5 +1,6 @@
-#your-owned-sum
+# your-owned-sum
 
+## description
 This simple solidity exercise shows how to take ownership of a sum operation with 2 addendum.
 
 The user ask the contract to compute the sum of two integers, via mySum method.
@@ -10,4 +11,6 @@ A user can submit just one sum operation, so she can own just one sumID.
 
 Every user may read the contract to check which sum is owned by a particular address.
 
-the contract may be tested on Ropsten test network, here: https://ropsten.etherscan.io/address/0x9f2b94ff2ce7a45fd1483818d6e35fd9cfb51034
+## deployment
+
+the contract may be tested on Ropsten test network, [here] (https://ropsten.etherscan.io/address/0x9f2b94ff2ce7a45fd1483818d6e35fd9cfb51034)
